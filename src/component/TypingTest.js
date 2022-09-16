@@ -7,7 +7,7 @@ const TypingTest = () => {
     const [isLoading, setisLOading] = useState(true);
     let [post, setpost] = useState('');
         useEffect( () => {
-        axios.get("http://localhost:5000/generate/passage")
+        axios.get("https://typingspeedtest-back-end-production.up.railway.app/generate/passage")
         .then( (response) => {
            // console.log(response.data);
            // console.log(typeof(response.data));

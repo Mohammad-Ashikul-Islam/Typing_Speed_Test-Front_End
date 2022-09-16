@@ -29,7 +29,7 @@ function App() {
         setUserName("")
       }
 
-      axios.post("http://localhost:5000/api/admin",{
+      axios.post("https://typingspeedtest-back-end-production.up.railway.app/api/admin",{
         email: userEmail
       })
         .then( (response) => {

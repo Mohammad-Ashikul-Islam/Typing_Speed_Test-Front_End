@@ -5,7 +5,7 @@ const Timer = ({flag,setflag}) => {
   return(
     <CountdownCircleTimer
       isPlaying
-      duration={20}
+      duration={60}
       rotation = {'counterclockwise'}
       trailColor = '#ad2d31'
       size={100}
