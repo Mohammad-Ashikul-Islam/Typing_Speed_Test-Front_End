@@ -1,4 +1,4 @@
-# TYPIN - An One Minute Typing Speed Test Web App
+# TAPIN - An One Minute Typing Speed Test Web App
 ### <a href="https://tapin-amber.vercel.app/">Live_Site_Link</a>  |  <a href="https://typingspeedtest-back-end-production.up.railway.app/">Back_End_API_Link</a>  |  <a href="https://github.com/Mohammad-Ashikul-Islam/Typing_Speed_Test-Back-End-">Back_End_Code</a>
 
 
