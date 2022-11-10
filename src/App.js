@@ -29,7 +29,7 @@ function App() {
         setUserName("")
       }
 
-      axios.post("https://typingspeedtest-back-end-production.up.railway.app/api/admin",{
+      axios.post("https://brainy-gear-duck.cyclic.app/api/admin",{
         email: userEmail
       })
         .then( (response) => {
