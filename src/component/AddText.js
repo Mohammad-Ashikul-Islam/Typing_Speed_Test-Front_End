@@ -11,7 +11,7 @@ const AddText = () => {
     const postMessage = async () =>{
         axios({
             method: 'post',
-            url: "https://typingspeedtest-back-end-production.up.railway.app/api/add",
+            url: "https://brainy-gear-duck.cyclic.app/api/add",
             headers: {}, 
             data: {"text": textareaText}
           });
