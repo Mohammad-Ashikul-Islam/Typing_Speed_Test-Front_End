@@ -4,7 +4,7 @@
 ### Built with 
 
 <p align="center">
-    <img width="200" src="./src/Preview/MERNF.png">
+    <img width="450" height="110" src="./src/Preview/MERNF.png">
 </p>
 
 - Frontend:  [React](https://react.dev/), [Firebase-Auth](https://firebase.google.com/docs/auth), [React-Bootstrap](https://react-bootstrap.github.io/), [Axios](https://axios-http.com/docs/intro) & [React-Icons](https://react-icons.github.io/react-icons/)
