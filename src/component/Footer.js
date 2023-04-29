@@ -25,7 +25,7 @@ const Footer = () => {
                        </Col> 
                     </Row>
                 </Col>
-                <p className='text-center text-warning'>All rights reserved by &copy;TYPIN </p>
+                <p className='text-center text-warning'>All rights reserved by &copy;TAPIN </p>
             </Row>
         </>
     );
