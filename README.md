@@ -8,7 +8,7 @@
 </p>
 
 - Frontend:  [React](https://react.dev/), [Firebase-Auth](https://firebase.google.com/docs/auth), [React-Bootstrap](https://react-bootstrap.github.io/), [Axios](https://axios-http.com/docs/intro) & [React-Icons](https://react-icons.github.io/react-icons/)
-- Backend: [Node](https://nodejs.org/en), [Express](https://expressjs.com/) & [Mongoose](https://mongoosejs.com/), [JWT](https://jwt.io/)
+- Backend: [Node](https://nodejs.org/en), [Express](https://expressjs.com/), [Mongoose](https://mongoosejs.com/) & [JWT](https://jwt.io/)
 
 ## Demo
 <p align="center"> 
